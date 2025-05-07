@@ -12,7 +12,7 @@ A beginner-friendly Python desktop app to generate and store secure passwords lo
 ## 🖼️ Preview
 
 <p align="center">
-  <img src="image.png" alt="App Preview" width="400" height="300" style="border-radius: 10px;">
+  <img src="image.png" alt="App Preview" width="600" height="300" style="border-radius: 10px;">
 </p>
 
 ## 🛠️ Technologies Used
