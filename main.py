@@ -88,6 +88,7 @@ email_entry.grid(row=2, column=1, columnspan=2)
 email_entry.insert(0, "")
 
 password_entry = tk.Entry(width=21)
+
 password_entry.grid(row=3, column=1)
 
 # Buttons
