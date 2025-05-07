@@ -9,6 +9,12 @@ A beginner-friendly Python desktop app to generate and store secure passwords lo
 - Copy passwords to clipboard.
 - Local storage in JSON format.
 
+## 🖼️ Preview
+
+<p align="center">
+  <img src="image.png" alt="App Preview" width="400" height="300" style="border-radius: 10px;">
+</p>
+
 ## 🛠️ Technologies Used
 - Python 3
 - `tkinter` for GUI
